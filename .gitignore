@@ -1,0 +1,25 @@
+# Flutter build outputs and dependencies
+build/
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+
+# IDE & tool files
+.vscode/
+.idea/
+*.iml
+
+# macOS & Xcode
+*.xcworkspace/
+*.xcuserstate
+*.xcuserdata/
+.DS_Store
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# Firebase config (indien aanwezig)
+firebase_options.dart
